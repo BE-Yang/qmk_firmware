@@ -4,7 +4,7 @@
 	branch = master
 [submodule "lib/chibios-contrib"]
 	path = lib/chibios-contrib
-	url = https://github.com/drashna/ChibiOS-Contrib
+	url = https://github.com/ChibiOS/ChibiOS-Contrib.git
 	branch = gd32f303
 [submodule "lib/googletest"]
 	path = lib/googletest
